@@ -1,3 +1,4 @@
 npm install --force
 yarn install --force
+npm install -g yarn
 npm audit fix ---force
